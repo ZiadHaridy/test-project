@@ -1,0 +1,8 @@
+{
+    "username":"standard_user",
+    "password":"secret_sauce",
+    "auth":"https://www.saucedemo.com/",
+    "cartPath":"https://www.saucedemo.com/cart",
+    "postalCode":"123123"
+    
+}
